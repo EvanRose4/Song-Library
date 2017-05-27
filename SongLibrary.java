@@ -24,7 +24,9 @@ import javax.swing.JTable;
 import javax.swing.SwingUtilities;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.Box;
-
+/*
+Evan Rose, 2017
+*/
 @SuppressWarnings("serial")
 public class SongLibrary extends JFrame{
     private Object[][] DATA;
